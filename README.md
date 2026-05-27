@@ -1,6 +1,6 @@
 # AWS Scalable Web with WAF, ALB and Auto Scaling
 
-<img width="1440" height="816" alt="image" src="https://github.com/rahul7528/aws-scalable-nginx-waf-alb-asg/blob/main/architecture1.png" />
+<img width="1440" height="816" alt="image" src="https://github.com/rahul7528/aws-scalable-nginx-waf-alb-asg/blob/main/architecture.png" />
 
 
 ### Why I built this
