@@ -1,5 +1,8 @@
 # AWS Scalable Web with WAF, ALB and Auto Scaling
 
+<img width="1440" height="816" alt="image" src="https://github.com/rahul7528/aws-scalable-nginx-waf-alb-asg/blob/main/architecture.png" />
+
+
 ### Why I built this
 I learned Load Balancer and Auto Scaling on AWS and wanted to prove I can build a website that does not crash when traffic spikes. I built it first in the AWS Console, then documented it here so anyone can recreate it in 5 minutes and delete it after.
 
