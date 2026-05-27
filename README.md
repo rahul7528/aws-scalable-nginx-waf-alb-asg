@@ -61,15 +61,3 @@ Because it's Docker, every server boots in 30 seconds with the exact same websit
 5. Deleted everything: ASG → ALB → WAF
 
 Total cost < ₹10 for 20 minutes on free tier.
-
----
-
-### Repo structure
-```
-website/index.html
-terraform/userdata.sh
-docs/ (screenshots)
-```
-
-### How to recreate
-See terraform/ for the code version, or follow the console steps in docs/.
